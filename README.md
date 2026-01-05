@@ -40,7 +40,7 @@ image
 
 у кого не работает - вы лох, переделывание обхода на ++ не будет потому что мне чьючьють похуй
 
-https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d/detection
+[https://www.virustotal.com/gui/file/e2cddd4ae53251b4ae8b6c1473575af867815aecd845f82a63e33703e188043d/detection](https://www.virustotal.com/gui/file/950fa52298ca2153a4be0d00d499add1155a7cfca8a8029434cf8dd7e261903b/detection)
 
 Создатель
 Сервер - https://discord.gg/tYpSxkRzbD
